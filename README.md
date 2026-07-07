@@ -44,13 +44,13 @@ A modern and responsive **Hospital Management System** built using **HTML5, CSS3
 
 ### 🏠 Dashboard
 
-![Dashboard](screenshots/1.png)
+![Dashboard](1.png)
 
 ---
 
 ### 🏥 Patient Management
 
-![Patient Management](screenshots/2.png)
+![Patient Management](2.png)
 
 ---
 
