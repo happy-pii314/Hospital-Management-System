@@ -6,7 +6,7 @@ A modern and responsive **Hospital Management System** built using **HTML5, CSS3
 
 ## 🚀 Live Demo
 
-🌐 **Live Website:** http://yourwebsite.wuaze.com
+🌐 **Live Website:** https://hospitalmanagement.wuaze.com
 
 ---
 
