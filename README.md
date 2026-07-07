@@ -65,9 +65,8 @@ Hospital-Management-System/
 ├── api.php
 ├── hospital.sql
 ├── README.md
-└── screenshots/
-    ├── 1.png
-    └── 2.png
+├── 1.png
+├── 2.png
 ```
 
 ---
