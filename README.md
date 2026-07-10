@@ -101,7 +101,7 @@ http://localhost/HospitalManagementSystem/
 
 ## 👨‍💻 Author
 
-**Alpesh Tapaniya**
+**A T**
 
 GitHub: https://github.com/happy-pii314
 
